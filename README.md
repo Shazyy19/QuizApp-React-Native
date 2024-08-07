@@ -1,51 +1,41 @@
-# React Native Quiz App
+![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)
+<h1 align="center">Hi 👋, I'm Syed Shahzaib Haider Rizvi</h1>
+<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTac0unxQG7k4k-zr6ZkK5-PRfD9VFJ6yJoxA&s">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shazyy19&label=Profile%20views&color=0e75b6&style=flat" alt="shazyy19" /> </p>
 
-![Logo](./assets/logo.png) <!-- Replace with the path to your logo -->
+<p align="left"> <a href="https://twitter.com/shazy19" target="blank"><img src="https://img.shields.io/twitter/follow/shazy19?logo=twitter&style=for-the-badge" alt="shazy19" /></a> </p>
 
-## Overview
+- 🔭 I’m currently working on [React Native](https://reactnative.dev/)
 
-The **React Native Quiz App** is a mobile application built with React Native that allows users to take quizzes on various topics. It features a clean and intuitive user interface, real-time feedback, and detailed quiz results. The app supports both iOS and Android platforms.
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/syed-shahzaib-haider-rizvi-376851241/](https://www.linkedin.com/in/syed-shahzaib-haider-rizvi-376851241/)
 
-## Features
+- 💬 Ask me about **React Native**
 
-- Multiple choice quizzes on various topics
-- Real-time feedback on answers
-- User progress tracking
-- Responsive and intuitive UI
-- Supports iOS and Android platforms
+- 📄 Know about my experiences [https://www.linkedin.com/in/syed-shahzaib-haider-rizvi-376851241/](https://www.linkedin.com/in/syed-shahzaib-haider-rizvi-376851241/)
 
-## Tech Stack
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/shazy19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shazy19" height="30" width="40" /></a>
+<a href="https://fb.com/shazyy19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shazyy19" height="30" width="40" /></a>
+</p>
 
-The app is built using the following technologies:
+## React Native Design
 
-- **React Native** ![React Native](https://upload.wikimedia.org/wikipedia/commons/a/a7/React_Native_logo.png)
-- **Redux** ![Redux](https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png)
-- **React Navigation** ![React Navigation](https://reactnavigation.org/img/react-navigation.png)
-- **Axios** ![Axios](https://axios-http.com/assets/logo.svg)
+The project utilizes React Native to build a cross-platform mobile application with a smooth and responsive design. React Native allows for a unified development experience across iOS and Android, leveraging a rich set of components and libraries to create a seamless user experience.
 
-## Development Tools
+## Languages and Tools Used
 
-The following tools are used to develop and manage the project:
-
-- **Node.js** ![Node.js](https://nodejs.org/static/images/logo.svg)
-- **npm** ![npm](https://upload.wikimedia.org/wikipedia/commons/6/6c/Npm-logo.svg)
-- **Yarn** ![Yarn](https://classic.yarnpkg.com/static/logo.svg)
-- **Android Studio** ![Android Studio](https://developer.android.com/studio/images/studio-icon.png)
-- **Xcode** ![Xcode](https://developer.apple.com/xcode/images/xcode-icon.png)
-
-## Prerequisites
-
-Before you begin, ensure you have the following installed:
-
-- [Node.js](https://nodejs.org/) (version 14.x or later)
-- [npm](https://www.npmjs.com/) or [Yarn](https://classic.yarnpkg.com/)
-- [React Native CLI](https://reactnative.dev/docs/environment-setup)
-- [Android Studio](https://developer.android.com/studio) (for Android development)
-- [Xcode](https://developer.apple.com/xcode/) (for iOS development, macOS only)
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4KIPaVphOUNvP-o8gltJnWhJWq2M6tG0r1Q&s" alt="React Native" width="100" height="100"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD21MIQ0XlhEdrkVsnzlsOscoLkVXpDXaHjA&s" alt="Expo" width="100" height="100"/>
+  <img src="https://seeklogo.com/images/G/github-logo-2E3852456C-seeklogo.com.png" alt="GitHub" width="100" height="100"/>
+</p>
 
 ## Installation
 
-### Clone the Repository
+To run this project locally, follow these steps:
 
-```bash
-git clone https://github.com/yourusername/react-native-quizapp.git
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Shazyy19/React-Native-Project
