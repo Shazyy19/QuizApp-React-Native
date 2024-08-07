@@ -38,4 +38,4 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Shazyy19/React-Native-Project
+   git clone https://github.com/Shazyy19/QuizApp-React-Native.git
