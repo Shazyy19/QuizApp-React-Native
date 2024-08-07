@@ -16,10 +16,22 @@ The **React Native Quiz App** is a mobile application built with React Native th
 
 ## Tech Stack
 
-- **React Native**: Framework for building native apps using React.
-- **Redux**: State management library.
-- **React Navigation**: Routing and navigation for React Native.
-- **Axios**: HTTP client for making API requests.
+The app is built using the following technologies:
+
+- **React Native** ![React Native](https://upload.wikimedia.org/wikipedia/commons/a/a7/React_Native_logo.png)
+- **Redux** ![Redux](https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png)
+- **React Navigation** ![React Navigation](https://reactnavigation.org/img/react-navigation.png)
+- **Axios** ![Axios](https://axios-http.com/assets/logo.svg)
+
+## Development Tools
+
+The following tools are used to develop and manage the project:
+
+- **Node.js** ![Node.js](https://nodejs.org/static/images/logo.svg)
+- **npm** ![npm](https://upload.wikimedia.org/wikipedia/commons/6/6c/Npm-logo.svg)
+- **Yarn** ![Yarn](https://classic.yarnpkg.com/static/logo.svg)
+- **Android Studio** ![Android Studio](https://developer.android.com/studio/images/studio-icon.png)
+- **Xcode** ![Xcode](https://developer.apple.com/xcode/images/xcode-icon.png)
 
 ## Prerequisites
 
